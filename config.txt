@@ -1,0 +1,4 @@
+input_dir=images  
+output_file=../output_result.jpg  
+layout=horizontal  # vertical（垂直拼接）或 horizontal（水平拼接）  
+compression=true  #true（启用压缩） false（关闭压缩）
