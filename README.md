@@ -8,3 +8,7 @@
 2.把要合成的文件扔进image里
 3.双击merga_images.bat
 出现的output_result.jpg就是输出图
+
+![image](https://github.com/user-attachments/assets/b965575e-ac7c-44dc-88aa-b56da893fe89)
+
+config.txt是配置文件
